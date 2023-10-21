@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦅 About Me:
 Hi, I'm Hamid Reza, also known as Legend. I'm a student pursuing my M.A. in English language and literature, but my passion for programming led me to embark on a journey with Python two years ago. Since then, I've delved into backend development with Django and, most recently, I've shifted my focus to learning C# and the .NET framework.<br><br>My fascination with technology and software development drives me to continually improve my skills and explore new horizons. While I've moved away from machine learning, I'm now enthusiastic about the possibilities that C# and .NET offer for creating a wide range of applications.<br><br>When I'm not immersed in code or studying, I find solace in playing World of Warcraft and losing myself in novels and books. These hobbies provide a much-needed balance and rejuvenation that fuels my productivity when I return to the world of programming.<br>
 
 
