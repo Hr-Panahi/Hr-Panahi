@@ -12,9 +12,6 @@ Hi, I'm Hamid Reza, also known as Legend. I'm a student pursuing my M.A. in Engl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hr-Panahi&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hr-Panahi&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hr-Panahi&icon=5&color=8)](https://visitcount.itsvg.in)
 
